@@ -87,8 +87,6 @@ Here's the tech I've touched so far
 
 ## What I've Hacked
 
-I enjoy taking systems apart to understand how they work, mostly through security research, reverse engineering, and hands-on experiments.
-
 - CityU ID card systems: NFC, MIFARE
 - DRM workflows and protection mechanisms
 - Various Android APKs for system design and hidden implementation details
