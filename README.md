@@ -9,7 +9,8 @@ I'm a fresh Computer Science graduate from City University of Hong Kong. I start
 What made me:
 - CityU CS '26
 - Exchange @ KTH '25
-- I always deep dive until I understand *how* something works — not just that it does
+- Love of efficiency
+- Curiosity and hands-on trying
 
 ## Featured projects
 
