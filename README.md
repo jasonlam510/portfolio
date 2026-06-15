@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a final-year Computer Science student at City University of Hong Kong. I started programming before university with Casio BASIC, Pascal, and VBA, and I've been building useful things ever since.
+I'm a fresh Computer Science graduate from City University of Hong Kong. I started programming before university with Casio BASIC, Pascal, and VBA, and I've been building useful things ever since.
 
 What made me:
 - CityU CS '26
